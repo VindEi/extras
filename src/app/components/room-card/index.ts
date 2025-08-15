@@ -1,1 +1,1 @@
-export * from './RoomCard';
+export { default as RoomCard } from './RoomCard';
